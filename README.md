@@ -51,6 +51,6 @@
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/matheusmdr/matheusmdr/output/github-contribution-grid-snake.svg" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/matheusmdr/matheusmdr/output//github-contribution-grid-snake-dark.svg?palette=github-dark" alt="Snake animation" />
 
 ###
