@@ -9,7 +9,7 @@
 
 ##
 
-[![My Skills](https://skillicons.dev/icons?i=git,js,ts,tailwind,vercel,nextjs,react,vite,nodejs,deno,bun,prisma,py,php,docker,tauri,electron,planetscale,supabase,firebase,npm,pnpm,yarn&perline=10)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=git,js,ts,tailwind,vercel,nextjs,react,vite,nodejs,deno,bun,prisma,py,php,docker,tauri,electron,planetscale,supabase,firebase,npm,pnpm,yarn,php,laravel,symfony&perline=10)](https://skillicons.dev)
 
 ##
 
